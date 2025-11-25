@@ -1,5 +1,5 @@
 {
-  "name": "cortessuarezproyectonode",
+  "name": "oshiroylopeznode",
   "version": "1.0.0",
   "description": "proyecto de NodeJs",
   "main": "index.js",
@@ -11,7 +11,7 @@
   "keywords": [
     "ES"
   ],
-  "author": "SEBASTIAN CORTES - FACUNDO SUAREZ",
+  "author": "IVAN OSHIRO  TOMAS LOPEZ",
   "license": "ISC",
   "dependencies": {
     "bcryptjs": "^3.0.3",
